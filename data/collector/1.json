@@ -32,7 +32,7 @@
       "title": "3008 [2.7]",
       "owner": "@uglyburger0",
       "icon": "data/collector/3008/icon/icon.jpg",
-      "scr":["data/collector/3008/scr/scr_1.png","data/collector/adopt_me/scr/scr_2.png","data/collector/3008/scr/scr_3.png","data/collector/3008/scr/scr_4.png"],
+      "scr":["data/collector/3008/scr/scr_1.png","data/collector/3008/scr/scr_2.png","data/collector/3008/scr/scr_3.png","data/collector/3008/scr/scr_4.png"],
       "description": "Don't follow any links put in-game. They will scam you!\n\nThumbnail by: @Plague_Dash\nVersion 2.7\n\nSCP-3008, the infinite IKEA. Wander through the vast horror land of furniture located within SCP-3008-1. Build a base, survive from employees. Stay alive.\n",
       "active": "3,054",
       "favorites": "1,608,800",
