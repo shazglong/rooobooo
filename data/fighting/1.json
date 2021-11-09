@@ -45,7 +45,7 @@
     {
       "title": "Boxing League 🥊",
       "owner": "kenami",
-      "icon": "data/fighting/boxing_league/icon/icon.png",
+      "icon": "data/fighting/boxing_league/icon/icon.jpg",
       "scr":["data/fighting/boxing_league/scr/scr_1.png","data/fighting/boxing_league/scr/scr_2.png"],
       "description": "Boxing League is unfortunately not a boxing game, you can kick or hug your opponent and that's pretty illegal, but you have a decent lawyer so it's not so much of a problem.\n\nExploiting lead to a permanent ban, so don't do it kids !!!\nFarming wins (cheating from receiving mass free wins) is also not allowed.\n\n@KenamiRBX - UI/Programming/Animation\n@VifuzRBX - Lead Map\n\nContributors : @_Nymfei - @fabuss254Dev - @FiniPhobia\n",
       "active": "3,054",
@@ -59,7 +59,7 @@
     {
       "title": "Da Hood",
       "owner": "Da Hood Entertainment",
-      "icon": "data/fighting/da_hood/icon/icon.png",
+      "icon": "data/fighting/da_hood/icon/icon.jpg",
       "scr":["data/fighting/da_hood/scr/scr_1.png","data/fighting/da_hood/scr/scr_2.png","data/fighting/da_hood/scr/scr_3.png","data/fighting/da_hood/scr/scr_4.png","data/fighting/da_hood/scr/scr_5.png"],
       "description": "A difficult game, read below for tips.\nAccount has to be at least 10 days to play.\n\n[PC/XBOX Controls][F/ButtonY - Block][E/PadDown - Stomp][G/PadUp - Carry][LCTRL+ButtonB - Crouch]\nCrouch+Carry = Ragdoll thrown.\nYou can weave 100% if you time at the right time when blocking.\n\nTo gain muscle buy weights at fitness.\nEat lettuce to reduce muscle.\n\nCop: To join cops go to the police station, if you execute anyone without cuffs you'll be automatically kicked off. Use cuffs instead.\n\nCriminals: Ransack banks and several others small time shops in order to gain wanted or cash.\n\nGun saves - however, can be lost by death, or logging when KO, or 0 ammo.\n\ncash drop takes 30%\n\nGame-Commands: /e stats\n",
       "active": "3,054",
