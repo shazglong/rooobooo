@@ -1,6 +1,16 @@
 {
   "boy": [
     {
+      "title": "Black Wukong",
+      "owner": "Roblox",
+      "price": "50,000",
+      "icon": "data/boy/wukong/icon/icon.webp",
+      "icon_3d": "null",
+      "include":["data/boy/wukong/included_iteam/include_1.webp","data/boy/wukong/included_iteam/include_2.webp","data/boy/wukong/included_iteam/include_3.webp","data/boy/wukong/included_iteam/include_4.webp","data/boy/wukong/included_iteam/include_5.webp""],
+      "type": "Bundle",
+      "description": "No, you have to believe me. This is a character in the hottest game right now.\n"
+    },
+	{
       "title": "Headless Horseman",
       "owner": "Roblox",
       "price": "31,000",
