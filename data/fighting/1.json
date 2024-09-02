@@ -29,6 +29,20 @@
       "genre": "All Genres"
     },
     {
+      "title": "Gym League [🔥UPD9]",
+      "owner": "@1v2Studio",
+      "icon": "data/fighting/gym/icon/icon.jpg",
+      "scr":["data/fighting/gym/scr/scr_1.png","data/fighting/gym/scr/scr_3.png","data/fighting/gym/scr/scr_3.png"],
+      "description": "Welcome To Gym League! 🔥\n\nA Bodybuilding Simulator with realistic muscle physics and competitions.\n\n☁️ This game is still under development. Please report bugs from the in-game feedback menu at the top right corner of the screen.\n\🏋️‍♂️ Train Muscles!\n🏁 Join Competitions!\n💪 Unlock Bodies!\n💥 Reroll Auras!\n🌟 Open New Gyms!\nBECOME THE BEST!\n\nJoin our Group and Like the Game to support us and special in-game rewards!\n",
+      "active": "33,054",
+      "favorites": "1,608,800",
+      "visits": "197.6M+",
+      "created": "9/23/2022",
+      "updated": "11/7/2024",
+      "server_size": "70",
+      "genre": "All Genres"
+    },
+	{
       "title": "🕷️ Spider-Man Simulator",
       "owner": "@@isCreator",
       "icon": "data/fighting/spider_man/icon/icon.jpg",
