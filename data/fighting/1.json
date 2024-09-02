@@ -1,6 +1,20 @@
 {
   "fighting": [
     {
+      "title": "[2X SPEED] Anime Defenders",
+      "owner": "Small World Games",
+      "icon": "data/fighting/anime_defenders/icon/icon.jpg",
+      "scr":["data/fighting/anime_defenders/scr/scr_1.png"],
+      "description": "Welcome to Anime Defenders - a highly anticipated Anime Tower Defense game!\n\n🔥 Enter the world of Anime Defenders and summon your favorite heroes!\n⚔️ Deploy powerful units and activate their unique abilities to defend against relentless enemy waves!\n🏆 Master challenging levels or prove your skills in infinite mode for ultimate victory!\n\n⚠️ WARNING ⚠️\nExploiting is strictly prohibited and will result in a permanent ban. We do not appeal our bans.\n\n📱💻Supports Desktop, Mobile and Tablet players\n🏆 Like and Join the group for a Gem boost\nand FREE VIP Servers!\n\nMade with ❤️ by Small World Games & Oakley\n\n",
+      "active": "43,054",
+      "favorites": "2,608,800",
+      "visits": "397.6M+",
+      "created": "9/11/2023",
+      "updated": "11/5/2024",
+      "server_size": "70",
+      "genre": "All Genres"
+    },
+	{
       "title": "BedWars 🏆 [RANKED!]",
       "owner": "Easy.gg",
       "icon": "data/fighting/bedwars/icon/icon.jpg",
