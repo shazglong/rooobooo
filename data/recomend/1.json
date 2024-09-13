@@ -1,5 +1,33 @@
 {
   "recommend": [
+	{
+      "title": "REAL Black Myth : WuKong",
+      "owner": "@WandererStudio",
+      "icon": "data/recomend/wukong0/icon/icon.webp",
+      "scr":["data/recomend/wukong0/scr/scr_1.png"],
+      "description": "New Update! Like + Favorite for more!\n\n《黑神話：悟空》是一部以中國神話為背景的動作角色扮演遊戲，取材自中國古典小說「四大名著」之一的《西遊記》\n\n",
+      "active": "543,054",
+      "favorites": "4,608,800",
+      "visits": "658.6M+",
+      "created": "8/23/2024",
+      "updated": "9/13/2024",
+      "server_size": "100",
+      "genre": "All Genres"
+    },
+	{
+      "title": "🐒Black Myth: Wukong（Monkey King）🐵[BETA]🐵",
+      "owner": "@WandererStudio",
+      "icon": "data/recomend/wukong2/icon/icon.webp",
+      "scr":["data/recomend/wukong2/scr/scr_1.png"],
+      "description": "Black Myth: Wukong is an action role-playing game set against the backdrop of Chinese mythology. After Tang Monk and his disciples successfully obtained the Buddhist scriptures, the Monkey King, Sun Wukong, was named the Victorious Fighting Buddha and gradually disappeared without a trace. The player takes on the role of the destined one and embarks on a perilous and astonishing journey to the West to uncover the truth behind the legendary tales.\n\nIn this real and illusory oriental magical world, players will travel to multiple distinctive and diverse places in the Journey to the West. The game features spectacular and realistic Chinese landscapes, a large number of highly restored Chinese ancient architectures. One of the highlights of this game is the unique and powerful monsters. Players will encounter many strong enemies and worthy opponents, and engage in fierce battles with them until death.\n\n",
+      "active": "313,054",
+      "favorites": "2,608,800",
+      "visits": "397.6M+",
+      "created": "8/23/2024",
+      "updated": "9/2/2024",
+      "server_size": "100",
+      "genre": "All Genres"
+    },
     {
       "title": "Black Myth WUKONG",
       "owner": "@47iiekong",
